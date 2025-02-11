@@ -10,11 +10,11 @@ Currently, two official plugins are available:
 Step-1:
 Download the repository<br>
 Step-2:
-Unzip the repository
+Unzip the repository<br>
 Step-3:
-move to labprograms folder 
+move to labprograms folder <br>
 Step-4:
-Run this command - npm install
+Run this command - npm install<br>
 Step-5: for run the project
-run this command - npm run dev
+run this command - npm run dev<br>
 
